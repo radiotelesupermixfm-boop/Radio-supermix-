@@ -1,3 +1,1 @@
-<audio controls>
-<source src="https://stream.zeno.fm/aemwdnretvauv" type="audio/mpeg">
-</audio>
+https://stream.zeno.fm/aemwdnretvauv
